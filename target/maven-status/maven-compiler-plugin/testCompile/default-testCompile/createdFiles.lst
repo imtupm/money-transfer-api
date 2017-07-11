@@ -1,0 +1,8 @@
+com/genericmethod/moneymate/resources/AccountWithdrawTests.class
+com/genericmethod/moneymate/resources/UserResourceTest.class
+com/genericmethod/moneymate/resources/AccountDepositTests.class
+com/genericmethod/moneymate/model/AccountSerializationTest.class
+com/genericmethod/moneymate/resources/TransferResourceTest.class
+com/genericmethod/moneymate/model/TransferSerializationTest.class
+com/genericmethod/moneymate/model/UserSerializationTest.class
+com/genericmethod/moneymate/resources/AccountResourceTest.class

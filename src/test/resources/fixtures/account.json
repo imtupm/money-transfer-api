@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "username":"Sumit",
+  "description":"description",
+  "balance":123.00,
+  "currency":"EUR"
+}

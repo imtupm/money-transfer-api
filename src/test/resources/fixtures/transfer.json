@@ -1,0 +1,6 @@
+{
+  "amount":123.00,
+  "currency":"EUR",
+  "sourceAccountId":"1",
+  "destinationAccountId":"2"
+}

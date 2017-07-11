@@ -1,0 +1,11 @@
+com/genericmethod/moneymate/model/User.class
+com/genericmethod/moneymate/dao/AccountDao.class
+com/genericmethod/moneymate/enums/HttpStatus.class
+com/genericmethod/moneymate/resources/AccountResource.class
+com/genericmethod/moneymate/resources/TransferResource.class
+com/genericmethod/moneymate/resources/UserResource.class
+com/genericmethod/moneymate/dao/mapper/UserMapper.class
+com/genericmethod/moneymate/model/Transfer.class
+com/genericmethod/moneymate/dao/mapper/AccountMapper.class
+com/genericmethod/moneymate/model/Account.class
+com/genericmethod/moneymate/dao/UserDao.class
